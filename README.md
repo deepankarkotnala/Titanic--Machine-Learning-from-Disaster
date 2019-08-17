@@ -5,3 +5,13 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
 
 Here we have predicted which passengers are likely to survive based on the data provided.
+
+## Algorithms Used:
+
+1. Logistic Regression
+2. Random Forests
+3. XGBoost
+
+Final selected model: XGBoost
+
+Please refer to the [Titanic.ipynb](https://github.com/deepankarkotnala/Titanic--Machine-Learning-from-Disaster/blob/master/Titanic.ipynb) notebook for the complete code.
